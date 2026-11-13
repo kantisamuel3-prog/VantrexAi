@@ -1,0 +1,22 @@
+export const theme = {
+  colors: {
+    bg: '#060A13',
+    bgSoft: '#0B1120',
+    card: '#131A2A',
+    elevated: '#1A2236',
+    border: '#2A3245',
+    text: '#EAF0F8',
+    textDim: '#8B95A8',
+    textMuted: '#5B6577',
+    green: '#16C784',
+    greenSoft: 'rgba(22, 199, 132, 0.13)',
+    greenDim: '#0E9A66',
+    red: '#EA3943',
+    redSoft: 'rgba(234, 57, 67, 0.13)',
+    accent: '#22D3EE',
+    accentSoft: 'rgba(34, 211, 238, 0.13)',
+    gold: '#F7B733',
+  },
+  spacing: { xs: 4, sm: 8, md: 16, lg: 24, xl: 32 },
+  radius: { sm: 10, md: 14, lg: 18, xl: 24, full: 9999 },
+};
